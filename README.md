@@ -1,4 +1,4 @@
 * Olivier Poulin
-* ![photo](images/port.JPG =100x100)
+* <img src="images/port.JPG" width="200" height="300"/>
 * 2018
 * Artificial Intelligence 
